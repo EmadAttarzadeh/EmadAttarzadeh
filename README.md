@@ -2,6 +2,8 @@
 
 Web3 developer focused on Solidity, Hardhat, and zero-knowledge proofs. Currently exploring AI coding agents and automation. Also active in financial markets — forex, crypto and stock market analysis — with a networking background (CCNA, CCNP Route & Switch).
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emad-attarzadeh-17bba2154/) [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Emad0x1)
+
 ## 🛠 Tech Stack
 Solidity · Hardhat · Leo / Aleo · SP1 (zkVM) · TypeScript · ethers.js · IBC / Polymer · Swisstronik
 Networking · CCNA · CCNP (Route & Switch)
