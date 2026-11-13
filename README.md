@@ -1,9 +1,11 @@
 # Hi, I'm Emad 👋
 
-Web3 developer focused on Solidity, Hardhat, and zero-knowledge proofs. Currently exploring AI coding agents and automation.
+Web3 developer focused on Solidity, Hardhat, and zero-knowledge proofs. Currently exploring AI coding agents and automation. Also active in financial markets — forex, crypto and stock market analysis — with a networking background (CCNA, CCNP Route & Switch).
 
 ## 🛠 Tech Stack
 Solidity · Hardhat · Leo / Aleo · SP1 (zkVM) · TypeScript · ethers.js · IBC / Polymer · Swisstronik
+Networking · CCNA · CCNP (Route & Switch)
+Financial Markets · Forex · Crypto · Stock Market Analysis
 
 ## 🚀 Featured Projects
 - **[aleo-lott](https://github.com/EmadAttarzadeh/aleo-lott)** — Tic-Tac-Toe on Aleo, written in Leo.
